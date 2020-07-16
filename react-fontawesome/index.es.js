@@ -1,4 +1,4 @@
-import { parse, icon } from '@fortawesome/fontawesome-svg-core';
+import { parse, icon } from 'font_awesome_pro/fontawesome-svg-core';
 import PropTypes from 'prop-types';
 import React from 'react';
 
